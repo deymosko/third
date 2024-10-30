@@ -13,7 +13,7 @@ public class Employer implements Person
     @Override
     public void getInfo() {
         System.out.println("Name: " + NAME);
-        System.out.println("Age: " + AGE);
+        System.out.println("Age: " + (62-AGE));
         System.out.println("Surname: " + USERNAME);
     }
 }

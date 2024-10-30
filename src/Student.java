@@ -17,6 +17,6 @@ public class Student implements Person{
         System.out.println("Student ID: " + STUDENT_ID);
         System.out.println("Age: " + AGE);
         System.out.println("Name: " + NAME);
-        System.out.println("Username: " + USERNAME);
+        System.out.println("Surname: " + USERNAME);
     }
 }

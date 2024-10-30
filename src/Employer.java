@@ -14,6 +14,6 @@ public class Employer implements Person
     public void getInfo() {
         System.out.println("Name: " + NAME);
         System.out.println("Age: " + AGE);
-        System.out.println("Username: " + USERNAME);
+        System.out.println("Surname: " + USERNAME);
     }
 }

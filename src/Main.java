@@ -7,8 +7,9 @@ public class Main
 {
     public static void main(String args[])
     {
-        Student student = new Student(12345, 10, "Ivan", "megaboss");
+        Student student = new Student(12345, 10, "Ivan", "Swing");
         student.getInfo();
+        System.out.println("\n\n");
         Employer employer = new Employer(20, "Oliver", "Ling");
         employer.getInfo();
     }
